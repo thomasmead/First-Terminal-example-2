@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		AA445BD225D003E600BB7927 /* First Terminal example */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "First Terminal example"; sourceTree = "<group>"; };
 		AA51499A25C0A284009819BA /* First Terminal example */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "First Terminal example"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA51499D25C0A284009819BA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				AA51499D25C0A284009819BA /* main.swift */,
+				AA445BD225D003E600BB7927 /* First Terminal example */,
 			);
 			path = "First Terminal example";
 			sourceTree = "<group>";

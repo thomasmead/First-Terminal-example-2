@@ -8,4 +8,7 @@
 import Foundation
 
 print("Hello, World!")
+print("hello again")
+print("test location")
+
 
